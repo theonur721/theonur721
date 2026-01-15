@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there 👋 I'm Onur
 
-<!--
-**theonur721/theonur721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- Front-End, Back-End and Mobile Developer
+- Focused on clean, readable and maintainable code
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**
+- HTML5, CSS3, SCSS (SASS)
+- JavaScript, TypeScript
+- React, Next.js
+- Redux, Redux Toolkit
+
+**Backend**
+- Node.js, Express.js
+- MongoDB
+- REST API
+
+**Mobile**
+- React Native
+- React Navigation
+- SQLite
+
+**Testing & Tools**
+- Unit Testing (Jest / Testing Library)
+- Git, GitHub
+- Jira, Trello
+- Jenkins
+
+### Contact
+- LinkedIn
+- Instagram
+- Email
