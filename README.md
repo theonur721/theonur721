@@ -1,14 +1,8 @@
 ## Hi there 👋 I'm Onur
 
-<div style="background-color:#e6f4ea; padding:16px; border-radius:10px">
-
 ### 👋 About Me
 - Front-End, Back-End and Mobile Developer  
 - Focused on clean, readable and maintainable code  
-- Solution-oriented and detail-focused  
-
-</div>
-
 
 ### Tech Stack
 
