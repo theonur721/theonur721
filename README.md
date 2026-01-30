@@ -11,6 +11,7 @@
 - JavaScript, TypeScript
 - React, Next.js
 - Redux, Redux Toolkit
+- Firebase
 
 **Backend**
 - Node.js, Express.js
